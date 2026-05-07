@@ -1,16 +1,26 @@
-# React + Vite
+# Esports Database Management System 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A database-driven system designed to manage esports tournament data including players, teams, matches, and results.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Player and team management
+- Match scheduling and results tracking
+- Structured database queries
+- Efficient data retrieval and storage
+- Scalable database design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠 Tech Stack
+- Python / Java (mention what you used)
+- SQL (MySQL / SQLite / PostgreSQL)
+- Tkinter / CLI / Web (whatever your interface is)
 
-## React Compiler
+## 🧠 Database Design
+- Tables for Players, Teams, Matches, Tournaments
+- Relationships using foreign keys
+- Normalized schema for efficiency
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ▶️ How to Run
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/esports-database-management-system.git
