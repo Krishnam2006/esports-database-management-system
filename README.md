@@ -21,7 +21,6 @@ A database-driven system designed to manage esports tournament data including pl
 
 - ## 🌐 Live Demo
 👉 Main App: https://esports-database-k2006a12.netlify.app/  
-👉 Players Page: https://esports-database-k2006a12.netlify.app/players
 
 ## ▶️ How to Run
 
