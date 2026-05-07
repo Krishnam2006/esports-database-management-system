@@ -19,6 +19,10 @@ A database-driven system designed to manage esports tournament data including pl
 - Relationships using foreign keys
 - Normalized schema for efficiency
 
+- ## 🌐 Live Demo
+👉 Main App: https://esports-database-k2006a12.netlify.app/  
+👉 Players Page: https://esports-database-k2006a12.netlify.app/players
+
 ## ▶️ How to Run
 
 1. Clone the repository:
